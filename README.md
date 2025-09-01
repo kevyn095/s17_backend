@@ -1,4 +1,5 @@
 Escolha do Framework
+
 O framework adotado foi o Express.js (Node.js), escolhido por sua flexibilidade e minimalismo, ideal para criar APIs REST de forma rápida. Além disso, conta com um ecossistema robusto, oferecendo middlewares prontos para CORS, segurança (helmet), registro de requisições (morgan), autenticação e outras funcionalidades.
 
 Sua ampla adoção no mercado facilita a manutenção por outros desenvolvedores. Para o contexto da API de pedidos — com autenticação, monitoramento e controle de acesso — o Express permite uma implementação eficiente, transparente e facilmente expansível.
